@@ -2,7 +2,7 @@
 
 **Supply chain ideas you can see, test and question.** A living spreadsheet where each sheet tab is one supply chain lesson: an animation you can play with, a dashboard that recalculates, and a plain-language explanation.
 
-**[Open the workbook](https://YOUR-USERNAME.github.io/supply-chain-workbook/)** — works on desktop and phone, in light or dark mode. You'll answer one skill-testing question first.
+**[Open the workbook](https://markfourman.github.io/supply-chain-workbook/)** — works on desktop and phone, in light or dark mode. You'll answer one skill-testing question first.
 
 ![The bottleneck sheet in light mode](assets/screenshot-light.png)
 
