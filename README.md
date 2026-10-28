@@ -2,7 +2,7 @@
 
 **Supply chain ideas you can see, test and question.** A living spreadsheet where each sheet tab is one supply chain lesson: an animation you can play with, a dashboard that recalculates, and a plain-language explanation.
 
-**[Open the workbook](https://YOUR-USERNAME.github.io/supply-chain-workbook/)** — works on desktop and phone, in light or dark mode. You'll answer one skill-testing question first.
+**[Open the workbook](https://markfourman.github.io/supply-chain-workbook/)** — works on desktop and phone, in light or dark mode. You'll answer one skill-testing question first.
 
 ![The bottleneck sheet in light mode](assets/screenshot-light.png)
 
@@ -48,15 +48,15 @@ Plain HTML, CSS and JavaScript, with no frameworks and nothing to install. Every
 ## Run it or publish it
 
 - **On your computer:** download the repository and double-click `index.html`.
-- **On GitHub Pages:** in the repository, open **Settings → Pages**, deploy from the `main` branch and `/ (root)`. The site appears at `https://YOUR-USERNAME.github.io/supply-chain-workbook/`.
-- Replace `YOUR-USERNAME`, `YOUR NAME` and `YOUR-PROFILE` in `index.html`, `js/sheets-cost.js`, this README and `LICENSE`.
+- **On GitHub Pages:** in the repository, open **Settings → Pages**, deploy from the `main` branch and `/ (root)`. The site appears at `https://markfourman.github.io/supply-chain-workbook/`.
+- Replace `markfourman`, `Mark Fourmanovskis` and `mark-fourmanovskis` in `index.html`, `js/sheets-cost.js`, this README and `LICENSE`.
 
 ## About me
 
-Former high school math and science teacher, now studying Supply Chain Management (Global Logistics) at Seneca College, with hands-on experience in inventory management and freight forwarding. Tools: Excel (Power Query, VBA), Power BI, Tableau, SAP S/4HANA and Access. See also [Cargo Voyage](https://YOUR-USERNAME.github.io/cargo-voyage/), which follows one shipment into Canada by sea or air.
+Former high school math and science teacher, now studying Supply Chain Management (Global Logistics) at Seneca College, with hands-on experience in inventory management and freight forwarding. Tools: Excel (Power Query, VBA), Power BI, Tableau, SAP S/4HANA and Access. See also [Cargo Voyage](https://markfourman.github.io/cargo-voyage/), which follows one shipment into Canada by sea or air.
 
 The simulations are simplified for teaching; real supply chains have more moving parts.
 
 ## License
 
-MIT. Built by YOUR NAME.
+MIT. Built by Mark Fourmanovskis.

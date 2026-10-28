@@ -291,7 +291,7 @@
   // ======================================================================
   SCW.register({
     id: 'about', tab: 'About', accent: '--c-teal', name: 'AUTHOR',
-    formula: '= "Built by " & YOUR_NAME',
+    formula: '= "Built by " & MARK_FOURMANOVSKIS',
     title: 'About this workbook',
     lead: 'Supply chain ideas you can see, test and question.',
     mount(p) {
@@ -299,15 +299,15 @@
       const panes = h('div', { class: 'panes' },
         h('div', { class: 'card about' },
           h('h3', { text: 'Who built this' }),
-          h('p', { text: 'I’m YOUR NAME. I taught high school math and science, and now I’m studying Supply Chain Management (Global Logistics) at Seneca College. I like turning tricky ideas into something people can see, test and question.' }),
+          h('p', { text: 'I’m Mark Fourmanovskis. I taught high school math and science, and now I’m studying Supply Chain Management (Global Logistics) at Seneca College. I like turning tricky ideas into something people can see, test and question.' }),
           h('p', { text: 'Each sheet in this workbook is one supply chain idea, shown the way I’d teach it: a picture that moves, numbers that react, and a plain-language explanation.' }),
           h('h3', { text: 'Skills' }),
           h('ul', { class: 'chips' }, skills.map((s) => h('li', { text: s }))),
           h('h3', { text: 'More' }),
           h('p', null,
-            h('a', { href: 'https://YOUR-USERNAME.github.io/cargo-voyage/', text: 'Cargo Voyage' }),
+            h('a', { href: 'https://markfourman.github.io/cargo-voyage/', text: 'Cargo Voyage' }),
             ' follows one shipment into Canada by sea or air. ',
-            h('a', { href: 'https://www.linkedin.com/in/YOUR-PROFILE', text: 'Connect with me on LinkedIn' }), '.')),
+            h('a', { href: 'https://www.linkedin.com/in/mark-fourmanovskis', text: 'Connect with me on LinkedIn' }), '.')),
         h('div', { class: 'card about' },
           h('h3', { text: 'How it’s built' }),
           h('ul', { class: 'plain' },
