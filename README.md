@@ -45,16 +45,6 @@ Plain HTML, CSS and JavaScript, with no frameworks and nothing to install. Every
 | `js/sheets-cost.js` | The holding cost and EOQ, right-things and About sheets. |
 | `css/style.css` | The spreadsheet look, light and dark themes, and phone layout. |
 
-## Run it or publish it
-
-- **On your computer:** download the repository and double-click `index.html`.
-- **On GitHub Pages:** in the repository, open **Settings → Pages**, deploy from the `main` branch and `/ (root)`. The site appears at `https://markfourman.github.io/supply-chain-workbook/`.
-<<<<<<< HEAD
-- Replace `markfourman`, `Mark Fourmanovskis` and `mark-fourmanovskis` in `index.html`, `js/sheets-cost.js`, this README and `LICENSE`.
-=======
-- Replace `YOUR-USERNAME`, `YOUR NAME` and `YOUR-PROFILE` in `index.html`, `js/sheets-cost.js`, this README and `LICENSE`.
->>>>>>> 8314c518401698f90f0c32f14e13e7edd8cfbbd5
-
 ## About me
 
 Former high school math and science teacher, now studying Supply Chain Management (Global Logistics) at Seneca College, with hands-on experience in inventory management and freight forwarding. Tools: Excel (Power Query, VBA), Power BI, Tableau, SAP S/4HANA and Access. See also [Cargo Voyage](https://markfourman.github.io/cargo-voyage/), which follows one shipment into Canada by sea or air.
