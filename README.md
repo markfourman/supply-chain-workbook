@@ -48,12 +48,12 @@ Plain HTML, CSS and JavaScript, with no frameworks and nothing to install. Every
 ## Run it or publish it
 
 - **On your computer:** download the repository and double-click `index.html`.
-- **On GitHub Pages:** in the repository, open **Settings → Pages**, deploy from the `main` branch and `/ (root)`. The site appears at `https://YOUR-USERNAME.github.io/supply-chain-workbook/`.
+- **On GitHub Pages:** in the repository, open **Settings → Pages**, deploy from the `main` branch and `/ (root)`. The site appears at `https://markfourman.github.io/supply-chain-workbook/`.
 - Replace `YOUR-USERNAME`, `YOUR NAME` and `YOUR-PROFILE` in `index.html`, `js/sheets-cost.js`, this README and `LICENSE`.
 
 ## About me
 
-Former high school math and science teacher, now studying Supply Chain Management (Global Logistics) at Seneca College, with hands-on experience in inventory management and freight forwarding. Tools: Excel (Power Query, VBA), Power BI, Tableau, SAP S/4HANA and Access. See also [Cargo Voyage](https://YOUR-USERNAME.github.io/cargo-voyage/), which follows one shipment into Canada by sea or air.
+Former high school math and science teacher, now studying Supply Chain Management (Global Logistics) at Seneca College, with hands-on experience in inventory management and freight forwarding. Tools: Excel (Power Query, VBA), Power BI, Tableau, SAP S/4HANA and Access. See also [Cargo Voyage](https://markfourman.github.io/cargo-voyage/), which follows one shipment into Canada by sea or air.
 
 The simulations are simplified for teaching; real supply chains have more moving parts.
 
