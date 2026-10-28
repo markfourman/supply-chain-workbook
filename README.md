@@ -49,7 +49,11 @@ Plain HTML, CSS and JavaScript, with no frameworks and nothing to install. Every
 
 - **On your computer:** download the repository and double-click `index.html`.
 - **On GitHub Pages:** in the repository, open **Settings → Pages**, deploy from the `main` branch and `/ (root)`. The site appears at `https://markfourman.github.io/supply-chain-workbook/`.
+<<<<<<< HEAD
 - Replace `markfourman`, `Mark Fourmanovskis` and `mark-fourmanovskis` in `index.html`, `js/sheets-cost.js`, this README and `LICENSE`.
+=======
+- Replace `YOUR-USERNAME`, `YOUR NAME` and `YOUR-PROFILE` in `index.html`, `js/sheets-cost.js`, this README and `LICENSE`.
+>>>>>>> 8314c518401698f90f0c32f14e13e7edd8cfbbd5
 
 ## About me
 
